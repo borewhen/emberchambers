@@ -22,7 +22,7 @@ function Entrance() {
   return (
     <div className="container">
       <div className="entrance" onClick={handleClick} style={{display: 'flex', flexDirection: 'column'}}>
-        <h1 style={{'color': '#ec6200', 'marginLeft': '10px', 'alignSelf': 'flex-end'}}>ember chambers</h1>
+        <h1 style={{'color': '#ec6200', 'marginLeft': '10px', 'marginTop': '40vh', 'alignSelf': 'flex-end', 'lineHeight': '0.8'}}>ember chambers</h1>
       </div>
     </div>
   );
