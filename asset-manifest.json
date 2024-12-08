@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/emberchambers/static/css/main.037a5b43.css",
+    "main.js": "/emberchambers/static/js/main.2a803fad.js",
+    "static/js/488.560a4e4b.chunk.js": "/emberchambers/static/js/488.560a4e4b.chunk.js",
+    "index.html": "/emberchambers/index.html",
+    "main.037a5b43.css.map": "/emberchambers/static/css/main.037a5b43.css.map",
+    "main.2a803fad.js.map": "/emberchambers/static/js/main.2a803fad.js.map",
+    "488.560a4e4b.chunk.js.map": "/emberchambers/static/js/488.560a4e4b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.037a5b43.css",
+    "static/js/main.2a803fad.js"
+  ]
+}
