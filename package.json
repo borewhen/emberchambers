@@ -36,5 +36,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://borewhen.github.io/emberchambers"
+  "homepage": "https://borewhen.github.io/emberchambers",
+  "devDependencies": {
+    "gh-pages": "^6.2.0"
+  }
 }
